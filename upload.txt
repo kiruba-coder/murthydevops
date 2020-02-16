@@ -1,4 +1,11 @@
-testing for push
-nothing
-branch revert
-1221345
+https://sethrobertson.github.io/GitFixUm/fixup.html
+
+https://stackoverflow.com/questions/495345/how-to-remove-selected-commit-log-entries-from-a-git-repository-while-keeping-th
+
+https://www.clock.co.uk/insight/deleting-a-git-commit
+
+https://medium.com/@vanshbadkul/squashing-commits-in-git-a-step-by-step-guide-884581224adf
+
+https://github.com/wprig/wprig/wiki/How-to-squash-commits
+
+https://dzone.com/articles/git-squash-in-6-steps
