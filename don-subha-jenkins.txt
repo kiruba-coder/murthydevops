@@ -8,7 +8,7 @@ The authenticity of host '54.89.131.228 (54.89.131.228)' can't be established.
 ECDSA key fingerprint is SHA256:uoG6iu5VQhl6stKqm9l2rPtfWHvTp+X6lOgzYT/0Fvk.
 Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added '54.89.131.228' (ECDSA) to the list of known hosts.
-[centos@ip-10-100-10-75 ~]$ sudo yum insta',omkomkommkpmk
+[centos@ip-10-100-10-75 ~]$ sudo yum insta',
 >
 [centos@ip-10-100-10-75 ~]$ sudo yum install -y git
 Loaded plugins: fastestmirror
